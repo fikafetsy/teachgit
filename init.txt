@@ -1,4 +1,5 @@
-first init -
+first br1 -
+    method 1
     modif from commit: bc53971
 second init -
     modif 1->1'
