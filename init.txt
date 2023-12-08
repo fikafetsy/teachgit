@@ -6,10 +6,14 @@ second init -
     modif 2
 
 third init - (from br-2)
-    modif 1
-    modif 2
-    modif 3
-    last modif from br-2
+    modif 11
+    modif 22
+    modif 33
+    last modif from br-2 + PR
+
+fourth init - (from br-3)
+    modif 11
+    modif 22
 
 fourth init - (from br-3)
     modif 11
