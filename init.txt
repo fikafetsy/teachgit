@@ -12,9 +12,13 @@ third init - (from br-2)
     last modif from br-2 + PR
 
 fourth init - (from br-3)
-    odif 11
-    odif 22
-    odif 333
+    modif 11
+    modif 22
+    modif 333
+
+fourth init - (from br-3)
+    modif 11
+    modif 22
 
 fifth init - br-4
     odif 1
