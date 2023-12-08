@@ -1,22 +1,22 @@
 first br1 -
-    method 1
-    modif from commit: bc53971
+    ethod 1
+    odif from commit: bc53971
 second init -
-    modif 1->1'
-    modif 2
+    odif 1->1'
+    odif 2
 
 third init - (from br-2)
-    modif 11
-    modif 22
-    modif 33
+    odif 11
+    odif 22
+    odif 33
     last modif from br-2 + PR
 
 fourth init - (from br-3)
-    modif 11
-    modif 22
-    modif 333
+    odif 11
+    odif 22
+    odif 333
 
 fifth init - br-4
-    modif 1
-    modif 2
-    modif 3
+    odif 1
+    odif 2
+    odif 3
