@@ -1,0 +1,8 @@
+first init -
+    modif from commit: bc53971
+second init -
+    modif 1->1'
+    modif 2
+
+third init - (from br-2)
+    modif 1
