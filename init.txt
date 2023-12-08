@@ -15,13 +15,6 @@ fourth init - (from br-3)
     modif 11
     modif 22
 
-fourth init - (from br-3)
-    modif 11
-    modif 22
-
-fourth init - 
-    modif 1
-
 fifth init - br-4
     modif 1
     modif 2
